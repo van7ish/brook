@@ -1,3 +1,6 @@
+# 此fork版本(van7ish/brook-pf)修改的内容：
+修改relays传参，v20200801之后的brook可用。
+
 # Brook端口转发一键脚本再次修改版
 Brook 端口转发 一键管理脚本再次修改版 基于逗比，yulewang版本修改而来。
 
